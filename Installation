@@ -1,0 +1,23 @@
+#!/bin/bash
+echo "# Project Title" > README.md
+echo "" >> README.md
+echo "## Description" >> README.md
+echo "Briefly describe your project here." >> README.md
+echo "" >> README.md
+echo "## Installation" >> README.md
+echo "\`\`\`bash" >> README.md
+echo "git clone <repository_url>" >> README.md
+echo "cd <project_folder>" >> README.md
+echo "\`\`\`" >> README.md
+echo "" >> README.md
+echo "## Usage" >> README.md
+echo "Instructions on how to use the project." >> README.md
+echo "" >> README.md
+echo "## Contributing" >> README.md
+echo "Guidelines for contributing to the project." >> README.md
+echo "" >> README.md
+echo "## License" >> README.md
+echo "This project is licensed under the MIT License." >> README.md
+echo "" >> README.md
+echo "## Contact" >> README.md
+echo "Your contact information." >> README.md
